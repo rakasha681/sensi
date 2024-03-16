@@ -1,6 +1,7 @@
 __pycache__
 *.py.b*
 secrets.yaml
+.vscode
 
 # Logs
 *.log
